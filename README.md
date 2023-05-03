@@ -1,3 +1,5 @@
+![logo](https://github.com/SanaShahSyeda/SanaShahSyeda/blob/main/github_banner.png)
+
 <h1 align="center">Hi 👋, I'm Sana Shah</h1>
 <h3 align="center">A passionate front-end web developer</h3>
 <img align="right" width="400" alt="coding gif" src="https://user-images.githubusercontent.com/132450783/235900301-1517508d-2b55-4b7d-99bc-0e08b0804343.png">
