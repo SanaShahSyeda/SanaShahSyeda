@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sana Shah</h1>
 <h3 align="center">A passionate front-end web developer</h3>
-<img align="right" width="400" alt= "coding gif" src="https://user-images.githubusercontent.com/132450783/235900301-1517508d-2b55-4b7d-99bc-0e08b0804343.png
+<img align="right" width="400" alt= "coding gif" src ="https://user-images.githubusercontent.com/132450783/235900301-1517508d-2b55-4b7d-99bc-0e08b0804343.png
 " >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanashahsyeda&label=Profile%20views&color=0e75b6&style=flat" alt="sanashahsyeda" /> </p>
 
