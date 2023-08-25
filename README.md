@@ -5,11 +5,11 @@
 <img align="right" width="400" alt="coding gif" src="https://user-images.githubusercontent.com/132450783/235900301-1517508d-2b55-4b7d-99bc-0e08b0804343.png">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanashahsyeda&label=Profile%20views&color=0e75b6&style=flat" alt="sanashahsyeda" /> </p>
 
-- 🌱 I’m currently learning **jQuery, ReactJS**
+- 🌱 I’m currently learning **Spring, Spring boot**
 
 - 👯 I’m looking to collaborate on **open source projects**
 
-- 💬 Ask me about **Java, HTML, CSS, JS, Bootstrap, MySQL**
+- 💬 Ask me about **Java, HTML, CSS, JS, Bootstrap, MySQL, Data Structures**
 
 - 📫 How to reach me **sana.shah1740@gmail.com**
 
