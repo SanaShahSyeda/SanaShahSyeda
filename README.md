@@ -5,13 +5,21 @@
 <img align="right" width="400" alt="coding gif" src="https://user-images.githubusercontent.com/132450783/235900301-1517508d-2b55-4b7d-99bc-0e08b0804343.png">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanashahsyeda&label=Profile%20views&color=0e75b6&style=flat" alt="sanashahsyeda" /> </p>
 
-- 🌱 I’m currently learning **Spring, Spring boot**
 
-- 👯 I’m looking to collaborate on **open source projects**
+👩‍💻 I'm currently working on... spring boot
 
-- 💬 Ask me about **Java, HTML, CSS, JS, Bootstrap, MySQL, Data Structures**
+🧠 I'm currently learning... spring mvc, spring boot
 
-- 📫 How to reach me **sana.shah1740@gmail.com**
+👯‍♀️ I'm looking to collaborate on... open projects
+
+🤔 I'm looking for help with... spring boot
+
+💬 Ask me about... java, html, css, js, dsa, spring
+
+📫 How to reach me... sana.shah1740@gmail.com
+
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
