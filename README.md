@@ -1,4 +1,4 @@
-![logo](https://github.com/SanaShahSyeda/SanaShahSyeda/blob/main/github_banner.png)
+![logo](https://github.com/SanaShahSyeda/SanaShahSyeda/blob/main/banner.png)
 
 <h1 align="center">Hi 👋, I'm Syeda Sana</h1>
 <h3 align="center">A passionate Front-end and Java developer</h3>
