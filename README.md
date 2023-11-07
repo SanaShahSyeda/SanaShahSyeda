@@ -6,15 +6,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SanaShahSyeda&label=Profile%20views&color=0e75b6&style=flat" alt="SanaShahSyeda" /> </p>
 
-🔭 I’m currently working on **spring boot**
+🔭 I’m currently working on **react-app**
 
 👯 I’m looking to collaborate on **open source projects**
 
 🤝 I’m looking for help with **spring data jpa**
 
-🌱 I’m currently learning **spring mvc, spring boot**
+🌱 I’m currently learning **spring boot, react.js**
 
-💬 Ask me about **html, java, spring, dsa, js**
+💬 Ask me about **html, java, dsa, js**
 
 📫 How to reach me **sana.shah1740@gmail.com**
 <br/>
